@@ -1,0 +1,3 @@
+SL Medicals is a proposed digital healthcare application designed to improve access to healthcare services in Sierra Leone, especially in rural communities. It aims to address challenges such as limited internet access, long distances to health facilities, and difficulties obtaining timely medical support.
+
+The application will provide maternal and infant health tracking, appointment reminders, health-facility information, and emergency guidance. With offline-friendly features and a focus on accessibility, SL Medicals aims to support better healthcare access and contribute to Sustainable Development Goal 3: Good Health and Well-being.
